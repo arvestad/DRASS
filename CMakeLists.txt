@@ -1,5 +1,0 @@
-cmake_minimum_required(VERSION 2.6)
-project(FACS)
-add_executable(bloom_build good_build.c)
-add_executable(simple_check simple_check_1_ge.c)
-add_executable(simple_remove simple_remove.c)
